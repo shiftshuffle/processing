@@ -1,5 +1,11 @@
 // Pressing Control-R will render this sketch.
 
+//http://tutoprocessing.com/decouverte/processing-js/
+//http://processingjs.org/articles/jsQuickStart.html
+//http://processingjs.org/tools/processing-helper.html
+//http://studio.sketchpad.cc/sp/pad/view/ro.9oX9g1TwyxZH7/rev.851
+//http://valentin.dasdeck.com/processing/
+
 int i = 0; 
 
 void setup() {  // this is run once.   
